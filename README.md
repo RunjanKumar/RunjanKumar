@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RunjanKumar
 - 👀 I’m interested in backend.
-- 🌱 I’m currently learning node js,
+- 🌱 I’m currently working node js,
 - 💞️ I’m looking to collaborate on backend project.
 - 📫 How to reach me send mail to dev.runjun786@gmail.com
 
